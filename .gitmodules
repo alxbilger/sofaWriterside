@@ -1,3 +1,3 @@
 [submodule "topics"]
-	path = topics
+	path = Writerside/topics
 	url = https://github.com/sofa-framework/doc
