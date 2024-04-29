@@ -8,10 +8,5 @@
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
-    <build-profile instance="sofa">
-        <variables>
-            <noindex-content>true</noindex-content>
-        </variables>
-    </build-profile>
 
 </buildprofiles>
